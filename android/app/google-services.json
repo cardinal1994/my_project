@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "51528238316",
+    "firebase_url": "https://sicilia-mafia-club.firebaseio.com",
+    "project_id": "sicilia-mafia-club",
+    "storage_bucket": "sicilia-mafia-club.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51528238316:android:2c6e3d5a51f55e89dd51c9",
+        "android_client_info": {
+          "package_name": "com.sidelnik.my_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51528238316-ha0mf6fj4a7hd6u3ms58ecl0vk4bq1fs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlZ44Nzjdic0nhkj0JYDmB62GzH4jU9jI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51528238316-ha0mf6fj4a7hd6u3ms58ecl0vk4bq1fs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
